@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Beatriz! A passionate Internet Computing student from Brazil.
+     Hi 👋, I'm Beatriz! A passionate Internet Computing student from Brazil.
 
   - 🌱 I’m currently studying  Internet Computing  <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
