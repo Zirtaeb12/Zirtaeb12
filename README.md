@@ -30,15 +30,11 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Zirtaeb12&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/)
-- [Exploratory Data Analysis](https://github.com/)
-- [Interactive Data Visualization](https://github.com/)
-- [Data Querying and Analysis](https://github.com/)
-- [Client Registry System](https://github.com/)
+
 
 <!-- GIF -->
 <p align="left">
