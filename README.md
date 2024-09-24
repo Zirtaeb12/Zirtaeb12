@@ -9,12 +9,12 @@
 <p>
   Hi 👋, I'm Beatriz! A passionate Internet Computing student from Brazil.
 
-  - 🌱 I’m currently studying  Internet Computing  <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying  Internet Computing  <img align="center" alt="html5" src="<iframe src="https://giphy.com/embed/85OCkXGbehmyU3g7S8" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jogo-computador-de-85OCkXGbehmyU3g7S8">via GIPHY</a></p>" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
-<!-- Dropdown -->
+<!-- Dropdown -->https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white
 <details>
   <summary>👨‍💻 More about me</summary>
 
