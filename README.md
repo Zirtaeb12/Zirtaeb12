@@ -23,12 +23,6 @@
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
-<!-- Links -->
-[![Youtube]
-[![Instagram]
-[![LinkedIn]
-[![Kaggle]
-
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Zirtaeb12&show_icons=true&theme=gotham)
 
