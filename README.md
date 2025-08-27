@@ -16,7 +16,6 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 16 years old, currently living in Brazil. I have fluency in English and have experience with Python and HTML5.
 
